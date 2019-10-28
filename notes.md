@@ -1,0 +1,5 @@
+-- create repo on github
+-- clone it
+-- code .
+-- add .gitignore <-- which files/folders to exclude when pushing to github repo
+    --> npx gitignore node
