@@ -3,3 +3,7 @@
 -- code .
 -- add .gitignore <-- which files/folders to exclude when pushing to github repo
     --> npx gitignore node
+-- add package.json file --> npm init -y
+-- added "server" script inside package.json
+-- install nodemon as a development dev ==> npm i -D nodemon
+-- add index.js file to root folder with console.log()
